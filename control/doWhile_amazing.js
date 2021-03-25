@@ -7,7 +7,7 @@ let option = -1
 
 do {
     option = getRandomIntBetw(-1, 10)
-    console.log(`A opção escolhida foi ${option}.`)
+    console.log(`You choosed ${option}.`)
 } while(option != -1)
 
 console.log(`See ya`)
