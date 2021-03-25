@@ -1,7 +1,7 @@
 //literal form
 function fun1() {}
 
-//storing it in a varuable
+//storing it in a variable
 const fun2 = function() {}
 
 //storing it in an array
