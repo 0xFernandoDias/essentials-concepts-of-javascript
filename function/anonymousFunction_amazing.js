@@ -9,3 +9,4 @@ const person = {
     speak() {console.log('Wassgud?!')}
 }
 person.speak()
+
