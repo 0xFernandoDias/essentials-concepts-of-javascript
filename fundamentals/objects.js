@@ -11,6 +11,7 @@ const prod2 = {
     }
 }
 prod2.details.country = 'USA'
+// I cannot create two objects like that -> prod2.info.country = 'UK'
 console.log(prod2)
 
 delete prod1.price
