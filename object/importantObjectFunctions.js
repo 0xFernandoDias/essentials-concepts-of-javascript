@@ -1,3 +1,11 @@
+const person = {
+    name: 'Hanna',
+    age: 27,
+    weight: 80
+}
+console.log(Object.keys(person)) // name, age, weight
+console.log(Object.values(person))
+
 //Object.assign ECMA2015
 const destiny = {a: 1}
 const obj1 = {b: 2}
