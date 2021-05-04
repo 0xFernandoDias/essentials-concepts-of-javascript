@@ -11,6 +11,7 @@ const person = {
 
 Object.setPrototypeOf(person, data)
 console.log(person.name)
+console.log(person) // = { }
 
 // or
 
